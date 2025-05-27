@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Happy Birthday, Mom!</title>
+    <style>
+        body {
+            background-color: #ffeaf4;
+            font-family: 'Georgia', serif;
+            color: #8a2be2;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 3em;
+            color: #ff69b4;
+        }
+        .card {
+            background-color: #fff0f5;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0px 0px 20px #ffc0cb;
+            display: inline-block;
+            max-width: 600px;
+        }
+        img {
+            width: 100%;
+            border-radius: 15px;
+            margin-bottom: 20px;
+            box-shadow: 0px 0px 15px #ffb6c1;
+        }
+        .emoji {
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎉 Happy Birthday, Mom! 🎉</h1>
+    <div class="card">
+        <img src="mom_birthday.jpg" alt="Happy Birthday!">
+        <p class="emoji">💖🌸🎉🌈🧁</p>
+        <p>Dear Mom,<br><br>
+        Happy Birthday to the queen of my universe 👑💫<br>
+        Thank you for the endless hugs, home-cooked love, and late-night pep talks.<br>
+        You’re the definition of grace and strength, and I’m forever lucky to be your child. 💖<br><br>
+        Love you infinity x galaxy,<br>
+        <b>Your Favorite Child 😇</b></p>
+        <p class="emoji">🎁🎈🦋✨🍰</p>
+    </div>
+</body>
+</html>
